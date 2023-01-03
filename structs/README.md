@@ -1,0 +1,1 @@
+This directory tracks the solutions of the problems listed in https://github.com/vasilzahariev/IP-Practicum-Tasks/tree/main/Week%2012%20-%20Structsgi
