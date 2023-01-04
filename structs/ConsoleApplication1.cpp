@@ -5,7 +5,7 @@ struct worker
 {
 	char name[1024];
 	int salary;
-	worker& chief;
+	worker* chief;
 
 };
 
